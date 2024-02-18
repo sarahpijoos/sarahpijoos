@@ -20,6 +20,9 @@ Some languages and tools I am familiar with:
  style="height: 45px"></a>
 <a> <img src = "https://github.com/sarahpijoos/sarahpijoos/assets/108792527/b14d144e-dfb4-456d-adff-4e97ff411ee2"
  style="height: 45px"></a>
+<a> <img src = "https://github.com/sarahpijoos/sarahpijoos/assets/108792527/d6ede117-f97b-4aab-b19f-ad02f760477d"
+ style="height: 45px"></a>
+
 
 
 
