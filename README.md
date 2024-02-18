@@ -22,10 +22,12 @@ Some languages and tools I am familiar with:
  style="height: 45px"></a>
 <a> <img src = "https://github.com/sarahpijoos/sarahpijoos/assets/108792527/d6ede117-f97b-4aab-b19f-ad02f760477d"
  style="height: 45px"></a>
-
-
-
-
-
-  
-
+<a> <img src = 
+"https://github.com/sarahpijoos/sarahpijoos/assets/108792527/b10ddce1-0550-4360-bcaf-11ffb940e309"
+ style="height: 45px"></a>
+<a> <img src = 
+"https://github.com/sarahpijoos/sarahpijoos/assets/108792527/bbc8358d-2e51-4a1d-8d3b-70bde6b59127"
+ style="height: 45px"></a>
+<a> <img src = 
+"https://github.com/sarahpijoos/sarahpijoos/assets/108792527/63ff313a-8c14-4929-bdbd-c76dd45bee73"
+ style="height: 45px"></a>
