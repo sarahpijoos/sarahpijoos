@@ -9,7 +9,7 @@
 
 Learn more about me here:
 
-<a href="https://www.linkedin.com/in/sarah-leigh-pijoos-682241206/"> <img src = "https://github.com/sarahpijoos/sarahpijoos/assets/108792527/af0da758-07e7-4557-bc86-1b90715cfbb7" style="height: 50px"></a>
+<a href="www.linkedin.com/in/sarah-leigh-pijoos"> <img src = "https://github.com/sarahpijoos/sarahpijoos/assets/108792527/af0da758-07e7-4557-bc86-1b90715cfbb7" style="height: 50px"></a>
 
 Some languages and tools I am familiar with:
 
