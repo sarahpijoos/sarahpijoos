@@ -1,5 +1,5 @@
 # Hi there, my name is Sarah-Leigh! 👋
-### 👩‍💻 Passionate woman in tech, dedicated to making a positive impact through software and technology. Enthusiastic about the full life cycle of software development, and eager to explore various aspects of the industry. Pursuing knowledge to harness technology for meaningful change and significant outcomes.. 🌐✨
+### 👩‍💻 Passionate woman in tech, dedicated to making a positive impact through software and technology. Enthusiastic about the full life cycle of software development, and eager to explore various aspects of the industry. Pursuing knowledge to harness technology for meaningful change and significant outcomes. 🌐✨
 
 - 🔭 I’m currently working on an expense tracker app to reflect on my spending and challenge myself (check out my repositories 😉) 
 - 🌱 I’m currently advancing my knowledge in Spring and Java.
