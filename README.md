@@ -1,8 +1,8 @@
 # Hi there, my name is Sarah-Leigh! 👋
-### 👩‍💻 Passionate woman in tech with 1 year of experience, dedicated to making a positive impact through software and technology. Enthusiastic about backend and frontend development, as well as exploring other fields of development. On a mission to leverage technology for meaningful change. 🌐✨
+### 👩‍💻 Passionate woman in tech, dedicated to making a positive impact through software and technology. Enthusiastic about the full life cycle of software development, and eager to explore various aspects of the industry. Pursuing knowledge to harness technology for meaningful change and significant outcomes.. 🌐✨
 
-- 🔭 I’m currently working on an expense tracker app to track my expenses, create budgets and reflect on my spending (check out my repositories 😉) 
-- 🌱 I’m currently learning more about front-end development and advanced Spring concepts.
+- 🔭 I’m currently working on an expense tracker app to reflect on my spending and challenge myself (check out my repositories 😉) 
+- 🌱 I’m currently advancing my knowledge in Spring and Java.
 - 💬 Ask me about my skills! 
 - 📫 How to reach me: sarahpijoos@gmail.com
 - ⚡ Fun fact: why is this always the hardest question to answer!? 😖
